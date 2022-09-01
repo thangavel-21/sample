@@ -1,4 +1,4 @@
-1package com.terareum.sample
+package com.terareum.sample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
